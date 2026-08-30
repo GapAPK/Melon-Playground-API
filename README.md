@@ -428,7 +428,8 @@
 
 <hr>
 
-**Ссылка:https://pg.playmelonpg.com/api/user/delete** (GET)
+**Ссылка:** (GET)
+``https://pg.playmelonpg.com/api/user/delete``
 
 *удаляет ваш аккаунт* ***ТОЛЬКО ДЛЯ МОДЕРАТОРОВ*.**
 
