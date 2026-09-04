@@ -335,6 +335,26 @@
 
 *Показывает количество доступных слотов для контента.*
 
+<hr>
+
+**Сслыка:** (GET)
+``https://pg.playmelonpg.com/api/content/slot-config/actual``
+
+**Ответ:**
+```json
+{
+  "id": "8239246d-7ea7-4cbb-b096-68b0fbe46ce9",
+  "slotsForDownloadsMsg": {
+    "en": "Initially, you have 3 slots for posting content on Workshop. However, you can increase this number by receiving downloads for your content. For every 100 new downloads, an additional slot will be unlocked.\nYou can unlock up to 500 slots.",
+    "ru": "Изначально у вас есть 3 слота для размещения контента в мастерской. Однако вы можете увеличить это количество, за загрузки вашего контента. За каждые 100 новых загрузок будет открываться дополнительный слот.\nВсего можно открыть до 500 слотов."
+  },
+  "createdAt": 1779189114126,
+  "updatedAt": 1779189114126
+}
+```
+
+*Показывает подсказку на русском и англ.*
+
 # 🌀 Настройка акаунта
 **Ссылка:** (POST)
 ``https://pg.playmelonpg.com/api/user/set-email``
@@ -430,6 +450,7 @@
   "login": "Новый логин."
 }
 ````
+
 *Устанавливает новый логин пользователя от 2 до 50 символов, и только англ. буквы, цифры и _ после первого символа.*
 
 <hr>
