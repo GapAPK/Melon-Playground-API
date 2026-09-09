@@ -397,7 +397,7 @@
 
 <hr>
 
-**Ссылка:**
+**Ссылка:** (POST)
 ``https://pg.playmelonpg.com/api/user/change-password``
 
 **Тело:**
