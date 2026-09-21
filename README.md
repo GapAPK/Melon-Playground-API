@@ -242,6 +242,32 @@
 
 <hr>
 
+**Ссылка:** (POST:)
+``https://pg.playmelonpg.com/api/game-store/order/yandex-pay/create``
+
+**Тело:**
+```json
+{
+  "billingKind": "yandexPay",
+  "skus": [
+    {
+      "skuId": "ID",
+      "price": { "amount": 123, "currency": "MELS" },
+      "promotionId": ""
+    }
+  ]
+}
+```
+
+**Ответ:**
+```json
+{ "paymentUrl": "https://" }
+```
+
+*Создаёт покупку мелсов/предметов в магазине через Яндекс.*
+
+<hr>
+
 **Ссылка:** (GET)
 ``https://pg.playmelonpg.com/api/internal-notice/filter?limit={limit}&offset={offset}``
 
