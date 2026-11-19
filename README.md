@@ -1,4 +1,4 @@
-<img src="Assets/logo.png" alt="Логотип.">
+<img width="1024" height="1024" alt="1000866664" src="https://github.com/user-attachments/assets/00a5149d-c3cc-43f8-8cd9-67be8b9d9082" alt="Логотип." />
 
 # 🔘 Melon Playground API
 ***API мелона*** *- для регистрации взаимодействия с серверами и прочем. через playmelonpg.com.
@@ -612,4 +612,5 @@
 
 *Пока это все известные API если у вас есть API или какие-то ошибки в API документации, пишите мне в ЛC:@gap0135*
 
-<img src="Assets/MP.png" alt="Иконка.">
+<img width="96" height="96" alt="1000866663" src="https://github.com/user-attachments/assets/3c5d27f4-15c8-4daf-b896-5b71ef4aa6d0" alt="Melon." />
+<hr>
