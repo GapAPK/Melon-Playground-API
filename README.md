@@ -497,13 +497,6 @@
 
 <hr>
 
-**Ссылка:** (GET)
-``https://pg.playmelonpg.com/api/user/delete``
-
-*удаляет ваш аккаунт* ***ТОЛЬКО ДЛЯ МОДЕРАТОРОВ*.**
-
-<hr>
-
 **Ссылка:** (POST)
 ``https://pg.playmelonpg.com/api/auth/logout``
 
