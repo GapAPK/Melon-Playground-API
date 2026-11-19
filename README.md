@@ -523,9 +523,14 @@
 
 *Меняет аву на указанный ID, вот все авы с этими ID:*
 
+<img src="https://pgstatic.playmelonpg.com/content/compressed-images/72e68dea-7213-486f-bd87-4238350840d3.png" alt="Мелон">
+
+**ID:** ``72e68dea-7213-486f-bd87-4238350840d3``
+*- Мелон.*
+
 <img src="https://pgstatic.playmelonpg.com/content/compressed-images/95c3c925-7e29-4d9a-9f72-40285a483326_w512.png" alt="Тыква">
 
-**ID:** ``95c3c925-7e29-4d9a-9f72-40285a483326_w512``
+**ID:** ``95c3c925-7e29-4d9a-9f72-40285a483326``
 *- Тыква.*
 
 <img src="https://pgstatic.playmelonpg.com/content/compressed-images/9d89048a-1495-472a-89ed-c1c4fda4c57b_w512.png" alt="Кукуруза">
@@ -535,6 +540,22 @@
 <img src="https://pgstatic.playmelonpg.com/content/compressed-images/b39f758d-6562-45c1-95c1-95d915d4345e_w512.png" alt="Робот">
 
 **ID:** ``b39f758d-6562-45c1-95c1-95d915d4345e_w512.png`` *- Робот.(Премиум.)*
+
+<img src="https://pgstatic.playmelonpg.com/content/compressed-images/4d53b455-72e8-47c1-8e68-d8631e463877.png" alt="Яблоко">
+
+**ID:** ``4d53b455-72e8-47c1-8e68-d8631e463877.png`` *- Яблоко.*
+
+**ID:** ``9d89048a-1495-472a-89ed-c1c4fda4c57b_w512`` *- Кукуруза.*
+
+<img src="https://pgstatic.playmelonpg.com/content/compressed-images/6dc7c4c8-e67d-4d84-9179-3ed69520283f.png" alt="Кактус">
+
+**ID:** ``6dc7c4c8-e67d-4d84-9179-3ed69520283f`` *- Кактус.*
+
+**ID:** ``9d89048a-1495-472a-89ed-c1c4fda4c57b_w512`` *- Кукуруза.*
+
+<img src="https://pgstatic.playmelonpg.com/content/compressed-images/1b29bc6b-1217-4fec-891c-aab2a1f3a01c.png" alt="Скелет">
+
+**ID:** ``1b29bc6b-1217-4fec-891c-aab2a1f3a01c`` *- Скелет.*
 
 # 🧱 Другое
 **Ссылка:** (GET)
