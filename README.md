@@ -242,7 +242,7 @@
 
 <hr>
 
-**Ссылка:** (POST:)
+**Ссылка:** (POST)
 ``https://pg.playmelonpg.com/api/game-store/order/yandex-pay/create``
 
 **Тело:**
@@ -363,7 +363,7 @@
 
 <hr>
 
-**Сслыка:** (GET)
+**Ссылыка:** (GET)
 ``https://pg.playmelonpg.com/api/content/slot-config/actual``
 
 **Ответ:**
@@ -380,6 +380,13 @@
 ```
 
 *Показывает подсказку на русском и англ.*
+
+<hr>
+
+**Ссылыка:** (GET)
+`https://pg.playmelonpg.com/api/content-management/creator/me?limit={limit}&offset={offset}`
+
+*Показывает ваши созданные работаты.*
 
 # 🌀 Настройка акаунта
 **Ссылка:** (POST)
