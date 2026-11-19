@@ -543,10 +543,6 @@
 
 **ID:** ``6dc7c4c8-e67d-4d84-9179-3ed69520283f`` *- Кактус.*
 
-**ID:** ``9d89048a-1495-472a-89ed-c1c4fda4c57b_w512`` *- Скелет.*
-
-<img src="https://pgstatic.playmelonpg.com/content/compressed-images/1b29bc6b-1217-4fec-891c-aab2a1f3a01c.png" alt="Скелет">
-
 **ID:** ``1b29bc6b-1217-4fec-891c-aab2a1f3a01c`` *- Скелет.*
 
 # 🧱 Другое
