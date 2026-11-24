@@ -101,6 +101,38 @@
 
 *Вход через ID устройство. (Анонимно.)*
 
+**Ссылка:** (POST)
+``https://pg.playmelonpg.com/api/auth/v2/by-device``
+
+**Тело:**
+```json
+{
+  "devicePlatform": "web",
+  "externalDeviceId": "local-web-xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx"
+}
+```
+**Заголовок:** (Только для этого.)
+```json
+{
+"content-type:" "application/json",
+"x-platform:" "web",
+"x-device-id:" "<Тот же externalDeviceId>"
+"x-app-version: 38.666"
+}
+```
+**Ответ:**
+```json
+{
+  "jwt": "<JWT-токен>",
+  "jwtExpiredAt": 1234567890123,
+  "userId": "...",
+  "userKind": "anonymousPlayer",
+  "eventJwt": "...",
+  "tokenTtlSeconds": 3600
+}
+```
+*Получение токена для авторизации дальше.*
+
 <hr>
 
 **Ссылка:** (POST)
