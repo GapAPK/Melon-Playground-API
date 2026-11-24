@@ -101,6 +101,8 @@
 
 *Вход через ID устройство. (Анонимно.)*
 
+<hr>
+
 **Ссылка:** (POST)
 ``https://pg.playmelonpg.com/api/auth/v2/by-device``
 
